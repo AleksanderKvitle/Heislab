@@ -86,4 +86,3 @@ int elevator_getNextFloor(ElevatorSystem *sys) {
     // 3. Ingen bestillinger igjen → stopp
     return -1;
 }
-
